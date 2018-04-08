@@ -1,0 +1,23 @@
+body {
+    background-color: #2222de
+}
+
+h1#tytul {
+    background-color: #7efada
+}
+
+p#paragraf-1 {
+    background-color: #428cf5
+}
+
+h2#podtytul {
+    background-color: #45c4de
+}
+
+p#paragraf-2 {
+    background-color: #1688f5
+}
+
+ul#lista {
+    background-color: #7918fa
+}
