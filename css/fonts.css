@@ -1,0 +1,23 @@
+body{
+    color: #ffe94c    
+}
+
+h1#tytul {
+    color: #ff1818
+}
+
+p#paragraf-1 {
+    color: #ff6424
+}
+
+h2#podtytul {
+    color: #e83415
+}
+
+p#paragraf-2 {
+    color: #e87115
+}
+
+ul#lista {
+    color: #ff9e18
+}
